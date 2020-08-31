@@ -1,8 +1,9 @@
 # Udacity_Data_Analyst_project4
 
 ## Twitter_Data_Wrangling
+## by (Maram Alobaid)
 
-### I completed this project as part of Udacity's Data Analyst Nanodegree. 
+#### I completed this project as part of Udacity's Data Analyst Nanodegree. 
 
 The project is based around the "WeRateDogs" Twitter page, a page which will kindly rate pictures
 and videos of dogs out of ten. Since dogs are all round fantastic creatures, all of WeRateDogs’ ratings are above ten. They also tag each dog with a different category out of 
